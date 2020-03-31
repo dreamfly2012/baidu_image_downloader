@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\bin\Release\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片抓取.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片抓取.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片抓取.csproj.CopyComplete
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片抓取.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片抓取.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\bin\Release\百度图片下载器.exe.config
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\bin\Release\百度图片下载器.exe
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\bin\Release\百度图片下载器.pdb
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片下载器.exe
+C:\Users\Administrator\source\repos\winform2\WindowsFormsApp1\obj\Release\百度图片下载器.pdb
